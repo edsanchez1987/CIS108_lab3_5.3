@@ -1,0 +1,5 @@
+﻿  LAB3_5.3.cpp
+C:\Users\Eduardo\source\repos\Steph's\LAB3_5.3\LAB3_5.3\LAB3_5.3.cpp(20,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Eduardo\source\repos\Steph's\LAB3_5.3\LAB3_5.3\LAB3_5.3.cpp(21,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Eduardo\source\repos\Steph's\LAB3_5.3\LAB3_5.3\LAB3_5.3.cpp(22,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+  LAB3_5.3.vcxproj -> C:\Users\Eduardo\source\repos\Steph's\LAB3_5.3\Debug\LAB3_5.3.exe
